@@ -1,0 +1,53 @@
+00:54
+declaración ahora esto es algo llamado
+00:56
+declaración del preprocesador cualquier cosa que
+00:57
+comienza con un hash es un preprocesador
+00:59
+declaración lo primero que un
+01:01
+hace el compilador cuando recibe una fuente
+01:02
+el archivo es preprocesa todos sus
+01:05
+declaración del preprocesador es por eso que
+01:06
+llamadas sentencias de preprocesador porque
+01:08
+suceden justo antes de lo real
+01:09
+la compilación en este caso es algo
+01:12
+llamado include lo que include hará es
+01:14
+
+------------------------------------------------------------------
+04:16
+this include iostream this is something
+04:18
+called a preprocessor statement so this
+04:20
+preprocessor statement gets evaluated
+04:22
+before we compile the file in this case
+04:25
+what it does is it include
+04:26
+all of the content of the iostream file
+
+---------------------------------------------------------------------
+15:38
+la función de registro en realidad está definida, tenemos
+15:41
+dos palabras diferentes aquí declaraciones
+15:43
+y las declaraciones de definiciones son solo un
+15:45
+declaración que dice hey este símbolo este
+15:48
+función existe y entonces una definición es
+15:51
+algo que dice esto es lo que esto
+15:54
+función es esta es la necesidad del cuerpo para
