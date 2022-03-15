@@ -47,5 +47,4 @@ int main(){
 	log.Info("Information");
 	log.Warning("Warn!!");
 	log.Error("Failed :(");
-	return 1;
 }
