@@ -1,7 +1,8 @@
 #include <iostream>
-#include "external_src.h"
+#include "file1.h"
 using namespace std;
 
 int main(){
+    use_function();
     return 0;
 }	
