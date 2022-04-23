@@ -3,12 +3,9 @@
 class Logger{
 
 public:
-
-	int levelError = 1;
-
-	int levelWarning = 2;
-
-	int levelInfo = 3;
+    enum Level : int {
+        levelError, levelWarning, levelInfo
+    };
 
 private:
 
@@ -16,7 +13,7 @@ private:
 
 public:
 
-	void setLevel(int level){
+	void setLevel(Level level){
 		myLevel = level;
 		return;
 	}
@@ -43,7 +40,7 @@ public:
 
 int main(){
 	Logger log;
-	log.setLevel(log.levelWarning);
+	log.setLevel(Logger::levelWarning);
 	log.Info("Information");
 	log.Warning("Warn!!");
 	log.Error("Failed :(");

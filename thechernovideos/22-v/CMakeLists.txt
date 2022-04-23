@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.21)
-set( CMAKE_CXX_COMPILER "/pathto/g++" )
-set( CMAKE_C_COMPILER "/pathto/gcc" )
 
-project(HeaderFile)
+project(static)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Werror -std=c++17")
