@@ -1,0 +1,1 @@
+https://www.educative.io/edpresso/resolving-the-function-returns-address-of-local-variable-error
